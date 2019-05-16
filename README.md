@@ -5,7 +5,7 @@
 ## Description
 This is my portfolio, it tells about me,skills I have ,some of the projects I did and my contact
 ## Setup/Installation Requirements
-* link to visit site: https://naimar1.github.io/Portfolio/
+* link to visit site:  https://naimar1.github.io/Naimar/
 * cd Portfolio
 * code . (if you are using visual studio)
 * atom .
